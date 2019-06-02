@@ -1,0 +1,3 @@
+# PUNCHFLOW
+
+Punchflow is a social network that allows its users, namely rap fans (rappers, beatmakers or clippers) to share their work, as well as to comment on the work of others. This platform can also allow its users, thanks to a news feed, to be identified by professionals in the field looking for new talent. Despite the objectives and goals seen above, this application strives to have simple features such as adding publications and comments to them, messaging and subscribing to a profile, so that the networking process takes place naturally.
